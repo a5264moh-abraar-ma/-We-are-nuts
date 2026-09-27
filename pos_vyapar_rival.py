@@ -7,7 +7,7 @@ from datetime import datetime
 from sarvamai import SarvamAI
 
 # --- Enterprise API & Gateway Config ---
-SARVAM_API_KEY = "PASTE_YOUR_API_KEY_HERE"
+SARVAM_API_KEY = "sk_9kjw1vsd_2PbkYynm1ct7WORuPlULHDGS"
 client = SarvamAI(api_subscription_key=SARVAM_API_KEY)
 
 MYSQL_CONFIG = {
